@@ -12,7 +12,7 @@ This project implements a **Text Generation Model** using the pre-trained **GPT-
 
 ## 📁 Project Structure
 <pre>
-├── Text_Generation_GPT2_Task4.ipynb   # Main Jupyter notebook containing all code and explanations  
+├── text_generation.ipynb              # Main Jupyter notebook containing all code and explanations  
 ├── requirements.txt                   # List of required Python packages  
 └── README.md                          # Project documentation  
 </pre>
@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ### 2. Open the Notebook
 
-Launch `Text_Generation_GPT2_Task4.ipynb` using Jupyter Notebook or VS Code.
+Launch `text_generation.ipynb ` using Jupyter Notebook or VS Code.
 
 ### 3. Run the Notebook
 
@@ -70,5 +70,5 @@ pip install -r requirements.txt
 ### 👨‍💻 Author
 
 Raman Kumar   
-CodTech Internship - AI Track   
+CodTech Internship 
 July 2025  
